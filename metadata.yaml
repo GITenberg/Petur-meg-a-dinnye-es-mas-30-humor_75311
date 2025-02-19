@@ -1,0 +1,32 @@
+_repo: Petur-meg-a-dinnye-es-mas-30-humor_75311
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gábor, Andor
+    aliases:
+    - Gabor, Andor
+    - Greiner, Andor
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '56824'
+    url: http://www.gutenberg.org/2009/agents/56824
+    wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1bor_Andor_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2025-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75311'
+language: hu
+pgterms:marc905: 20250202103427gbor
+pgterms:marc906: '1913'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bDick Manó, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Petúr meg a dinnye és más 30 humor
+url: http://www.gutenberg.org/ebooks/75311
