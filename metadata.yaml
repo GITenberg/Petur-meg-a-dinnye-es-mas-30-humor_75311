@@ -1,5 +1,8 @@
 _repo: Petur-meg-a-dinnye-es-mas-30-humor_75311
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gábor, Andor
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56824
     wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1bor_Andor_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75311#Petur-meg-a-dinnye-es-mas-30-humor
 gutenberg_issued: '2025-02-07'
 gutenberg_type: Text
 identifiers:
